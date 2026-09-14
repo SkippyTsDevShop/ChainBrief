@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="100%" stop-color="#0d1520"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 L 0 0 0 64" fill="none" stroke="#141b24" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <rect width="1920" height="1080" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1920" height="10" fill="#06b6d4"/>
+
+  <text x="120" y="130" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="52">
+    <tspan fill="#ffffff">Chain</tspan><tspan fill="#06b6d4">Brief</tspan>
+  </text>
+  <text x="1800" y="130" font-family="'JetBrains Mono', monospace" font-size="24" fill="#aab4c0" text-anchor="end">CRYPTO NEWS WITH CONTEXT</text>
+
+  <rect x="120" y="210" width="172" height="52" fill="none" stroke="#06b6d4" stroke-width="2"/>
+  <text x="138" y="245" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="24" letter-spacing="1.5" fill="#7de2f0">ON-CHAIN</text>
+
+  <text y="430" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="72" fill="#ffffff"><tspan x="120" dy="0">Ethereum vs. Solana: What</tspan><tspan x="120" dy="84">Are Developers Actually</tspan><tspan x="120" dy="84">Building On?</tspan></text>
+
+  <text y="738" font-family="Inter, Arial, sans-serif" font-weight="400" font-size="34" fill="#aab4c0"><tspan x="120" dy="0">Forget the price chart tribalism. The more useful question is</tspan><tspan x="120" dy="42">which chain builders reach for when they&#x27;re deciding where to</tspan></text>
+
+  <line x1="120" y1="970" x2="1800" y2="970" stroke="#28303a" stroke-width="1"/>
+  <text x="120" y="1020" font-family="'JetBrains Mono', monospace" font-size="26" fill="#06b6d4">CHAINBRIEF.NEWS</text>
+  <text x="1800" y="1020" font-family="'JetBrains Mono', monospace" font-size="24" fill="#aab4c0" text-anchor="end">7 min read</text>
+</svg>

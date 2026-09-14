@@ -1,0 +1,22 @@
+# ChainBrief.news
+
+> Crypto news with context. Fast, personality-driven reporting on markets, DeFi, regulation, payments and adoption, and the on-chain stories behind the headlines — for crypto-curious readers who want the drama with actual context, not just the noise.
+
+ChainBrief.news is one property in a five-site independent media network. Each site is editorially independent and covers its own beat; ChainBrief covers crypto news and market context specifically.
+
+## Articles
+
+- [Stablecoins Are Becoming Financial Infrastructure — Not Just Crypto Infrastructure](https://chainbrief.news/stablecoins-financial-infrastructure.html): Stablecoins have moved from a crypto-trading convenience to real payment rails used for remittances, payroll, and treasury. Here's what changed — and what hasn't.
+- [Ethereum vs. Solana: What Are Developers Actually Building On?](https://chainbrief.news/ethereum-vs-solana-developer-activity.html): A practical look at where developers build on Ethereum versus Solana — decentralized finance, tokenization, consumer apps, and the tradeoffs that actually drive the decision.
+- [Why Wall Street Keeps Launching Crypto Exchange-Traded Funds](https://chainbrief.news/wall-street-crypto-etfs.html): Why asset managers keep launching crypto exchange-traded funds (ETFs), what a crypto ETF actually gives up versus holding crypto directly, and what the trend signals about institutional adoption.
+- [Crypto Wallets Are Getting Easier to Use. Is the Seed Phrase Era Ending?](https://chainbrief.news/crypto-wallets-seed-phrase-era.html): How account abstraction, passkeys, and social recovery are replacing the seed phrase as the default crypto wallet onboarding experience — and what tradeoffs come with it.
+- [What Is a Blockchain Node — and Why Does Decentralization Depend on Them?](https://chainbrief.news/what-is-a-blockchain-node.html): A plain-English explainer on what a blockchain node is, how it differs from a validator or a miner, and why the number and distribution of nodes determines how decentralized a network really is.
+- [Tokenization Is Growing Fast. Does Everything Really Need a Token?](https://chainbrief.news/tokenization-does-everything-need-a-token.html): A clear-eyed look at what tokenization actually adds versus a traditional database, when putting a real-world asset or process on-chain solves a genuine problem, and when it's a token for its own sake.
+
+## Policies
+
+- [Editorial Standards](https://chainbrief.news/editorial-standards.html)
+- [About](https://chainbrief.news/about.html)
+- [Corrections](https://chainbrief.news/corrections.html)
+
+Nothing on ChainBrief.news is financial, legal, or tax advice. Where a brand or project is mentioned for editorial context, ChainBrief.news discloses that context inline; such mentions are not endorsements.

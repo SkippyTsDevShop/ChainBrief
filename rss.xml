@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>ChainBrief.news</title>
+  <link>https://chainbrief.news/index.html</link>
+  <description>Crypto news with context.</description>
+  <language>en-us</language>
+  <item>
+    <title>Stablecoins Are Becoming Financial Infrastructure — Not Just Crypto Infrastructure</title>
+    <link>https://chainbrief.news/stablecoins-financial-infrastructure.html</link>
+    <guid>https://chainbrief.news/stablecoins-financial-infrastructure.html</guid>
+    <description>Stablecoins have moved from a crypto-trading convenience to real payment rails used for remittances, payroll, and treasury. Here's what changed — and what hasn't.</description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Ethereum vs. Solana: What Are Developers Actually Building On?</title>
+    <link>https://chainbrief.news/ethereum-vs-solana-developer-activity.html</link>
+    <guid>https://chainbrief.news/ethereum-vs-solana-developer-activity.html</guid>
+    <description>A practical look at where developers build on Ethereum versus Solana — decentralized finance, tokenization, consumer apps, and the tradeoffs that actually drive the decision.</description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Why Wall Street Keeps Launching Crypto Exchange-Traded Funds</title>
+    <link>https://chainbrief.news/wall-street-crypto-etfs.html</link>
+    <guid>https://chainbrief.news/wall-street-crypto-etfs.html</guid>
+    <description>Why asset managers keep launching crypto exchange-traded funds (ETFs), what a crypto ETF actually gives up versus holding crypto directly, and what the trend signals about institutional adoption.</description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Crypto Wallets Are Getting Easier to Use. Is the Seed Phrase Era Ending?</title>
+    <link>https://chainbrief.news/crypto-wallets-seed-phrase-era.html</link>
+    <guid>https://chainbrief.news/crypto-wallets-seed-phrase-era.html</guid>
+    <description>How account abstraction, passkeys, and social recovery are replacing the seed phrase as the default crypto wallet onboarding experience — and what tradeoffs come with it.</description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>What Is a Blockchain Node — and Why Does Decentralization Depend on Them?</title>
+    <link>https://chainbrief.news/what-is-a-blockchain-node.html</link>
+    <guid>https://chainbrief.news/what-is-a-blockchain-node.html</guid>
+    <description>A plain-English explainer on what a blockchain node is, how it differs from a validator or a miner, and why the number and distribution of nodes determines how decentralized a network really is.</description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>Tokenization Is Growing Fast. Does Everything Really Need a Token?</title>
+    <link>https://chainbrief.news/tokenization-does-everything-need-a-token.html</link>
+    <guid>https://chainbrief.news/tokenization-does-everything-need-a-token.html</guid>
+    <description>A clear-eyed look at what tokenization actually adds versus a traditional database, when putting a real-world asset or process on-chain solves a genuine problem, and when it's a token for its own sake.</description>
+    <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
+  </item>
+</channel>
+</rss>
