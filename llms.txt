@@ -12,6 +12,7 @@ ChainBrief.news is one property in a five-site independent media network. Each s
 - [Crypto Wallets Are Getting Easier to Use. Is the Seed Phrase Era Ending?](https://chainbrief.news/crypto-wallets-seed-phrase-era.html): How account abstraction, passkeys, and social recovery are replacing the seed phrase as the default crypto wallet onboarding experience — and what tradeoffs come with it.
 - [What Is a Blockchain Node — and Why Does Decentralization Depend on Them?](https://chainbrief.news/what-is-a-blockchain-node.html): A plain-English explainer on what a blockchain node is, how it differs from a validator or a miner, and why the number and distribution of nodes determines how decentralized a network really is.
 - [Tokenization Is Growing Fast. Does Everything Really Need a Token?](https://chainbrief.news/tokenization-does-everything-need-a-token.html): A clear-eyed look at what tokenization actually adds versus a traditional database, when putting a real-world asset or process on-chain solves a genuine problem, and when it's a token for its own sake.
+- [The Senate Votes on the CLARITY Act Tomorrow. It Should Pass.](https://chainbrief.news/clarity-act-senate-vote-should-pass.html): The Senate holds a cloture vote on the CLARITY Act on September 15, 2026. ChainBrief.news makes the case for passage — the roadblocks, the key senators, and what prediction markets are pricing in.
 
 ## Policies
 
