@@ -463,6 +463,19 @@ footer.site-footer {
   margin-top: 8px;
 }
 
+/* Inline citation/reference links within article prose — distinct from the
+   surrounding text so a reader can tell something is a link without hovering. */
+.article-body p a, .article-body li a {
+  color: var(--cyan-dark);
+  text-decoration: underline;
+  text-decoration-color: var(--line);
+  text-underline-offset: 2px;
+}
+.article-body p a:hover, .article-body li a:hover {
+  color: var(--cyan);
+  text-decoration-color: var(--cyan);
+}
+
 .context-box {
   max-width: 780px;
   margin: 8px auto 34px;
