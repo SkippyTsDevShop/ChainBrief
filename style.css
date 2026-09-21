@@ -76,6 +76,7 @@ a { color: inherit; text-decoration: none; }
   gap: 34px;
 }
 .ticker-strip:hover .ticker-track { animation-play-state: paused; }
+.ticker-set { display: inline-flex; align-items: center; gap: 34px; }
 .ticker-item { display: inline-flex; gap: 7px; align-items: baseline; }
 .ticker-item .sym { color: #fff; font-weight: 700; }
 .ticker-item .px { color: #aab4c0; }
