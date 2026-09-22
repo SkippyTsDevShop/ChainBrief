@@ -2,189 +2,189 @@
 <rss version="2.0">
 <channel>
   <title>ChainBrief.news</title>
-  <link>https://chainbrief.news/index.html</link>
+  <link>https://chainbrief.news/</link>
   <description>Crypto news with context.</description>
   <language>en-us</language>
   <item>
     <title>Stablecoins Are Becoming Financial Infrastructure — Not Just Crypto Infrastructure</title>
-    <link>https://chainbrief.news/stablecoins-financial-infrastructure.html</link>
-    <guid>https://chainbrief.news/stablecoins-financial-infrastructure.html</guid>
-    <description>Stablecoins have moved from a crypto-trading convenience to real payment rails used for remittances, payroll, and treasury. Here's what changed — and what hasn't.</description>
+    <link>https://chainbrief.news/stablecoins-financial-infrastructure</link>
+    <guid>https://chainbrief.news/stablecoins-financial-infrastructure</guid>
+    <description>Stablecoins have moved from a crypto-trading tool to real payment rails for remittances, payroll, and treasury. Here's what changed, and what hasn't.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Ethereum vs. Solana: What Are Developers Actually Building On?</title>
-    <link>https://chainbrief.news/ethereum-vs-solana-developer-activity.html</link>
-    <guid>https://chainbrief.news/ethereum-vs-solana-developer-activity.html</guid>
-    <description>A practical look at where developers build on Ethereum versus Solana — decentralized finance, tokenization, consumer apps, and the tradeoffs that actually drive the decision.</description>
+    <link>https://chainbrief.news/ethereum-vs-solana-developer-activity</link>
+    <guid>https://chainbrief.news/ethereum-vs-solana-developer-activity</guid>
+    <description>A practical look at where developers actually build — DeFi, tokenization, consumer apps — and the tradeoffs that drive the choice between Ethereum and Solana.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Why Wall Street Keeps Launching Crypto Exchange-Traded Funds</title>
-    <link>https://chainbrief.news/wall-street-crypto-etfs.html</link>
-    <guid>https://chainbrief.news/wall-street-crypto-etfs.html</guid>
-    <description>Why asset managers keep launching crypto exchange-traded funds (ETFs), what a crypto ETF actually gives up versus holding crypto directly, and what the trend signals about institutional adoption.</description>
+    <link>https://chainbrief.news/wall-street-crypto-etfs</link>
+    <guid>https://chainbrief.news/wall-street-crypto-etfs</guid>
+    <description>What asset managers keep launching crypto ETFs for, what an ETF wrapper gives up versus holding crypto directly, and what it signals about adoption.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Crypto Wallets Are Getting Easier to Use. Is the Seed Phrase Era Ending?</title>
-    <link>https://chainbrief.news/crypto-wallets-seed-phrase-era.html</link>
-    <guid>https://chainbrief.news/crypto-wallets-seed-phrase-era.html</guid>
-    <description>How account abstraction, passkeys, and social recovery are replacing the seed phrase as the default crypto wallet onboarding experience — and what tradeoffs come with it.</description>
+    <link>https://chainbrief.news/crypto-wallets-seed-phrase-era</link>
+    <guid>https://chainbrief.news/crypto-wallets-seed-phrase-era</guid>
+    <description>How account abstraction, passkeys, and social recovery are replacing the seed phrase as crypto wallets' default onboarding experience, and the tradeoffs.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>What Is a Blockchain Node — and Why Does Decentralization Depend on Them?</title>
-    <link>https://chainbrief.news/what-is-a-blockchain-node.html</link>
-    <guid>https://chainbrief.news/what-is-a-blockchain-node.html</guid>
-    <description>A plain-English explainer on what a blockchain node is, how it differs from a validator or a miner, and why the number and distribution of nodes determines how decentralized a network really is.</description>
+    <link>https://chainbrief.news/what-is-a-blockchain-node</link>
+    <guid>https://chainbrief.news/what-is-a-blockchain-node</guid>
+    <description>A plain-English explainer on what a blockchain node is, how it differs from a validator or miner, and why node count and distribution drive decentralization.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Tokenization Is Growing Fast. Does Everything Really Need a Token?</title>
-    <link>https://chainbrief.news/tokenization-does-everything-need-a-token.html</link>
-    <guid>https://chainbrief.news/tokenization-does-everything-need-a-token.html</guid>
-    <description>A clear-eyed look at what tokenization actually adds versus a traditional database, when putting a real-world asset or process on-chain solves a genuine problem, and when it's a token for its own sake.</description>
+    <link>https://chainbrief.news/tokenization-does-everything-need-a-token</link>
+    <guid>https://chainbrief.news/tokenization-does-everything-need-a-token</guid>
+    <description>What tokenization actually adds versus a normal database, when putting an asset on-chain solves a real problem, and when it's a token for its own sake.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>The Senate Votes on the CLARITY Act Tomorrow. It Should Pass.</title>
-    <link>https://chainbrief.news/clarity-act-senate-vote-should-pass.html</link>
-    <guid>https://chainbrief.news/clarity-act-senate-vote-should-pass.html</guid>
-    <description>The Senate holds a cloture vote on the CLARITY Act on September 15, 2026. ChainBrief.news makes the case for passage — the roadblocks, the key senators, and what prediction markets are pricing in.</description>
+    <link>https://chainbrief.news/clarity-act-senate-vote-should-pass</link>
+    <guid>https://chainbrief.news/clarity-act-senate-vote-should-pass</guid>
+    <description>The Senate holds a cloture vote on the CLARITY Act. ChainBrief makes the case for passage: the roadblocks, the key senators, and what betting markets price in.</description>
     <pubDate>Mon, 14 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Circle Built Its Own Blockchain. The Gas Token Is USDC.</title>
-    <link>https://chainbrief.news/circle-arc-stablecoin-blockchain.html</link>
-    <guid>https://chainbrief.news/circle-arc-stablecoin-blockchain.html</guid>
-    <description>Circle's Arc layer-1 blockchain launched on mainnet with USDC as its native gas token, a permissioned validator set including BlackRock and DTCC, and sub-second finality. Here's what it actually is and why the timing matters.</description>
+    <link>https://chainbrief.news/circle-arc-stablecoin-blockchain</link>
+    <guid>https://chainbrief.news/circle-arc-stablecoin-blockchain</guid>
+    <description>Circle's Arc layer-1 launched with USDC as its gas token, a permissioned validator set including BlackRock and DTCC, and sub-second finality. Here's why.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Five Utility Tokens, Put to the Test</title>
-    <link>https://chainbrief.news/five-utility-tokens-put-to-the-test.html</link>
-    <guid>https://chainbrief.news/five-utility-tokens-put-to-the-test.html</guid>
-    <description>A skeptical, test-based look at five utility tokens — Chainlink, Filecoin, Helium, Render, and Livepeer — asking whether each one actually needs a token, or just has one.</description>
+    <link>https://chainbrief.news/five-utility-tokens-put-to-the-test</link>
+    <guid>https://chainbrief.news/five-utility-tokens-put-to-the-test</guid>
+    <description>A skeptical, test-based look at five utility tokens — Chainlink, Filecoin, Helium, Render, Livepeer — asking whether each actually needs a token.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Voices to Know: The Web3 Growth Marketer Podcasting About the Part Nobody Livestreams</title>
-    <link>https://chainbrief.news/stefan-furcoi-trust-to-traction-podcast.html</link>
-    <guid>https://chainbrief.news/stefan-furcoi-trust-to-traction-podcast.html</guid>
-    <description>An introduction to Stefan Furcoi's Trust to Traction podcast, a Web3 growth-marketing show covering user trust, onboarding, and go-to-market strategy for wallets, exchanges, and protocols — part of ChainBrief's Voices to Know series.</description>
+    <link>https://chainbrief.news/stefan-furcoi-trust-to-traction-podcast</link>
+    <guid>https://chainbrief.news/stefan-furcoi-trust-to-traction-podcast</guid>
+    <description>An introduction to Stefan Furcoi's Trust to Traction podcast, covering user trust, onboarding, and go-to-market strategy for wallets and protocols.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>The CLARITY Act Failed. The SEC and CFTC Say They'll Regulate Crypto Anyway.</title>
-    <link>https://chainbrief.news/sec-acts-alone-after-clarity-act-fails.html</link>
-    <guid>https://chainbrief.news/sec-acts-alone-after-clarity-act-fails.html</guid>
-    <description>After the CLARITY Act's cloture vote failed 49-50 in the Senate, SEC Chair Paul Atkins and CFTC Chair Michael Selig both said their agencies will pursue crypto rulemaking under existing statutory authority regardless of legislation.</description>
+    <link>https://chainbrief.news/sec-acts-alone-after-clarity-act-fails</link>
+    <guid>https://chainbrief.news/sec-acts-alone-after-clarity-act-fails</guid>
+    <description>After the CLARITY Act's cloture vote failed, SEC Chair Paul Atkins and CFTC Chair Michael Selig said their agencies will pursue crypto rules regardless.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>What Is a Cloture? And Is the CLARITY Act Dead, or Dead for Now?</title>
-    <link>https://chainbrief.news/what-is-a-cloture-senate-explainer.html</link>
-    <guid>https://chainbrief.news/what-is-a-cloture-senate-explainer.html</guid>
-    <description>A plain-English explainer on Senate cloture procedure, why the CLARITY Act's cloture vote needed 60 votes, what happens after a failed cloture vote, and whether the bill is actually dead or just stalled.</description>
+    <link>https://chainbrief.news/what-is-a-cloture-senate-explainer</link>
+    <guid>https://chainbrief.news/what-is-a-cloture-senate-explainer</guid>
+    <description>A plain-English explainer on Senate cloture: why the CLARITY Act needed 60 votes, what happens after a failed vote, and whether the bill is really dead.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Aave, Morpho, and Uniswap Just Deployed on a Chain They Don't Control</title>
-    <link>https://chainbrief.news/defi-builds-on-arc-anyway.html</link>
-    <guid>https://chainbrief.news/defi-builds-on-arc-anyway.html</guid>
-    <description>DeFi protocols including Aave and Morpho deployed on Circle's permissioned Arc blockchain at mainnet launch. Here's why, and the tension it creates with DeFi's permissionless roots.</description>
+    <link>https://chainbrief.news/defi-builds-on-arc-anyway</link>
+    <guid>https://chainbrief.news/defi-builds-on-arc-anyway</guid>
+    <description>DeFi protocols including Aave and Morpho deployed on Circle's permissioned Arc blockchain at launch. Here's why, and the tension with DeFi's permissionless roots.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Crypto Spent $206 Million on This Fight. It Lost Anyway. What Happens to That Money Now?</title>
-    <link>https://chainbrief.news/crypto-political-spending-after-clarity-fails.html</link>
-    <guid>https://chainbrief.news/crypto-political-spending-after-clarity-fails.html</guid>
-    <description>The crypto industry spent roughly $206 million in the 2026 midterm cycle backing the CLARITY Act, more than any other corporate interest — and the bill still failed. Here's why the spending didn't convert, and what the industry's political operation does next.</description>
+    <link>https://chainbrief.news/crypto-political-spending-after-clarity-fails</link>
+    <guid>https://chainbrief.news/crypto-political-spending-after-clarity-fails</guid>
+    <description>Crypto spent roughly $206 million backing the CLARITY Act, more than any other industry, and the bill still failed. Here's why, and what happens next.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>The Two Senators Who Might Still Save the CLARITY Act</title>
-    <link>https://chainbrief.news/gallego-tillis-clarity-act-negotiators.html</link>
-    <guid>https://chainbrief.news/gallego-tillis-clarity-act-negotiators.html</guid>
-    <description>A profile of Sen. Ruben Gallego (D-AZ) and Sen. Thom Tillis (R-NC), the negotiators behind the CLARITY Act's ethics compromise, and why their work may be the bill's best remaining path forward — despite Gallego voting against cloture himself.</description>
+    <link>https://chainbrief.news/gallego-tillis-clarity-act-negotiators</link>
+    <guid>https://chainbrief.news/gallego-tillis-clarity-act-negotiators</guid>
+    <description>A profile of Sen. Ruben Gallego and Sen. Thom Tillis, the negotiators behind CLARITY's ethics compromise, and why their work may be its best path forward.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Why 18 State Attorneys General — Republicans and Democrats Alike — Wanted CLARITY Dead</title>
-    <link>https://chainbrief.news/state-ags-federal-preemption-clarity-act.html</link>
-    <guid>https://chainbrief.news/state-ags-federal-preemption-clarity-act.html</guid>
-    <description>An explainer on the 18-state, bipartisan attorneys general coalition that opposed the CLARITY Act over federal preemption concerns — the disputed 'qualified transaction' definition, the $11.4 billion fraud figure they cited, and what the objection means going forward.</description>
+    <link>https://chainbrief.news/state-ags-federal-preemption-clarity-act</link>
+    <guid>https://chainbrief.news/state-ags-federal-preemption-clarity-act</guid>
+    <description>An explainer on the bipartisan 18-state coalition that opposed CLARITY over federal preemption, the disputed 'qualified transaction' definition, and the stakes.</description>
     <pubDate>Thu, 17 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>The SEC Just Let Real Stocks Trade on Public Blockchains</title>
-    <link>https://chainbrief.news/sec-tokenized-stocks-exemptive-relief.html</link>
-    <guid>https://chainbrief.news/sec-tokenized-stocks-exemptive-relief.html</guid>
-    <description>The SEC granted a five-year exemptive-relief framework letting real, dividend- and voting-rights-bearing U.S. shares trade on public blockchains through DeFi platforms. Here's the mechanism, the guardrails, and who's positioned to benefit.</description>
+    <link>https://chainbrief.news/sec-tokenized-stocks-exemptive-relief</link>
+    <guid>https://chainbrief.news/sec-tokenized-stocks-exemptive-relief</guid>
+    <description>The SEC granted a five-year exemption letting real, dividend- and voting-rights-bearing U.S. shares trade on public blockchains. The mechanism, and who benefits.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>The CFTC Sent Its Crypto Rulebook to the White House. Here's What That Actually Means.</title>
-    <link>https://chainbrief.news/cftc-sends-crypto-rules-white-house.html</link>
-    <guid>https://chainbrief.news/cftc-sends-crypto-rules-white-house.html</guid>
-    <description>The CFTC submitted a new crypto market-structure proposal to the White House OMB on September 18, following the Senate's failed CLARITY Act cloture vote. Here's what the submission means, what's still unknown, and how it fits with the SEC's own moves.</description>
+    <link>https://chainbrief.news/cftc-sends-crypto-rules-white-house</link>
+    <guid>https://chainbrief.news/cftc-sends-crypto-rules-white-house</guid>
+    <description>The CFTC submitted a crypto market-structure proposal to the White House OMB after the Senate's failed CLARITY vote. What the submission means, and what's next.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Twenty-One of the World's Biggest Banks Are Building Their Own Stablecoin</title>
-    <link>https://chainbrief.news/banks-launch-joint-stablecoin-venture.html</link>
-    <guid>https://chainbrief.news/banks-launch-joint-stablecoin-venture.html</guid>
-    <description>A 21-bank consortium including Bank of America, Citi, Goldman Sachs, and UBS is forming a joint venture to issue a dollar stablecoin, targeting a first-half-2027 launch. Here's what's confirmed, what isn't, and why traditional banks are moving now.</description>
+    <link>https://chainbrief.news/banks-launch-joint-stablecoin-venture</link>
+    <guid>https://chainbrief.news/banks-launch-joint-stablecoin-venture</guid>
+    <description>A 21-bank consortium including Bank of America, Citi, and Goldman Sachs is forming a venture to issue a dollar stablecoin, targeting a 2027 launch.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>A Hacker Drained $319 Million From a Bitcoin Network, Then Gave Most of It Back</title>
-    <link>https://chainbrief.news/liquid-network-320-million-exploit.html</link>
-    <guid>https://chainbrief.news/liquid-network-320-million-exploit.html</guid>
-    <description>A caching bug in Liquid Network's Elements software let an attacker mint roughly 4,000 unbacked bitcoin and withdraw $319 million on September 6. The attacker returned about 85% of the funds after the network patched the bug. Here's what happened and what's still unresolved.</description>
+    <link>https://chainbrief.news/liquid-network-320-million-exploit</link>
+    <guid>https://chainbrief.news/liquid-network-320-million-exploit</guid>
+    <description>A caching bug let an attacker mint unbacked bitcoin and withdraw $319 million from Liquid Network. About 85% came back after a patch. Here's what happened.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Crypto's Midterm War Chest Now Has AI and Sports Betting Money Behind It</title>
-    <link>https://chainbrief.news/crypto-midterm-spending-2026-update.html</link>
-    <guid>https://chainbrief.news/crypto-midterm-spending-2026-update.html</guid>
-    <description>New campaign-finance reporting shows crypto, AI, and sports-betting super PACs have spent or committed more than $500 million toward the 2026 midterms. Here's the updated numbers, who's funding it, and how it connects to the CLARITY Act fight.</description>
+    <link>https://chainbrief.news/crypto-midterm-spending-2026-update</link>
+    <guid>https://chainbrief.news/crypto-midterm-spending-2026-update</guid>
+    <description>New reporting shows crypto, AI, and sports-betting super PACs have committed more than $500 million to the 2026 midterms. The numbers, and the CLARITY tie-in.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>What Is "Exemptive Relief," and Why Is the SEC Using It Instead of Writing New Rules?</title>
-    <link>https://chainbrief.news/what-is-exemptive-relief-sec-explainer.html</link>
-    <guid>https://chainbrief.news/what-is-exemptive-relief-sec-explainer.html</guid>
-    <description>A plain-language explainer on SEC exemptive relief: what it is, how it differs from rulemaking or legislation, its history with products like ETFs, and why it's showing up so often in crypto policy right now.</description>
+    <link>https://chainbrief.news/what-is-exemptive-relief-sec-explainer</link>
+    <guid>https://chainbrief.news/what-is-exemptive-relief-sec-explainer</guid>
+    <description>A plain-language explainer on SEC exemptive relief: what it is, how it differs from rulemaking, its history with products like ETFs, and why it's everywhere now.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Real-World Asset Tokenization Just Crossed $34 Billion. Here's What That Actually Means.</title>
-    <link>https://chainbrief.news/rwa-tokenization-market-state-2026.html</link>
-    <guid>https://chainbrief.news/rwa-tokenization-market-state-2026.html</guid>
-    <description>The on-chain real-world asset market reached $34.18 billion in mid-September 2026, with tokenized equities up 390% year-to-date. Here's a data-driven look at what's actually growing, what isn't, and why issuance is outpacing real usage.</description>
+    <link>https://chainbrief.news/rwa-tokenization-market-state-2026</link>
+    <guid>https://chainbrief.news/rwa-tokenization-market-state-2026</guid>
+    <description>The on-chain real-world asset market reached $34.18 billion, with tokenized equities up 390% year-to-date. What's actually growing, and what issuance hides.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Staking Finally Showed Up Inside a U.S. Crypto ETF</title>
-    <link>https://chainbrief.news/staking-etfs-go-mainstream.html</link>
-    <guid>https://chainbrief.news/staking-etfs-go-mainstream.html</guid>
-    <description>Grayscale's Ethereum ETF has begun distributing staking rewards to shareholders, a first for a U.S.-listed spot crypto ETF. Canary Capital has filed a staked SEI ETF built around a 90% staking ratio. Here's what changed and what's still just a filing.</description>
+    <link>https://chainbrief.news/staking-etfs-go-mainstream</link>
+    <guid>https://chainbrief.news/staking-etfs-go-mainstream</guid>
+    <description>Grayscale's Ethereum ETF began distributing staking rewards, a first for a U.S.-listed spot crypto fund. Canary Capital has filed a staked SEI ETF too.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>Wall Street Found a Way Into Prediction Markets Without Touching the Bets Themselves</title>
-    <link>https://chainbrief.news/prediction-markets-etf-kalshi-polymarket.html</link>
-    <guid>https://chainbrief.news/prediction-markets-etf-kalshi-polymarket.html</guid>
-    <description>ETF provider Tema launched a fund holding equity stakes in Kalshi and Polymarket rather than their prediction-market contracts, sidestepping ongoing SEC scrutiny of event contracts. Here's how the structure works and what it says about where regulatory uncertainty still sits.</description>
+    <link>https://chainbrief.news/prediction-markets-etf-kalshi-polymarket</link>
+    <guid>https://chainbrief.news/prediction-markets-etf-kalshi-polymarket</guid>
+    <description>ETF provider Tema launched a fund holding equity stakes in Kalshi and Polymarket rather than their contracts, sidestepping ongoing SEC scrutiny.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
   <item>
     <title>What's Actually Driving This Month's Layer-2 and DeFi Rally</title>
-    <link>https://chainbrief.news/what-is-driving-september-defi-rally.html</link>
-    <guid>https://chainbrief.news/what-is-driving-september-defi-rally.html</guid>
-    <description>Layer-2 and DeFi tokens posted some of their sharpest gains of the year this week. A look at the specific catalysts — the SEC's tokenized-stock exemption, the CFTC's rulemaking push, easing Treasury yields, and more — and which ones are actually load-bearing.</description>
+    <link>https://chainbrief.news/what-is-driving-september-defi-rally</link>
+    <guid>https://chainbrief.news/what-is-driving-september-defi-rally</guid>
+    <description>Layer-2 and DeFi tokens posted some of the year's sharpest gains. A look at the specific catalysts, and which ones are actually load-bearing.</description>
     <pubDate>Mon, 21 Sep 2026 09:00:00 -0500</pubDate>
   </item>
 </channel>

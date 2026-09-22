@@ -8,7 +8,7 @@ Nothing in this file is financial, legal, or tax advice. Brand or project mentio
 
 ## Stablecoins Are Becoming Financial Infrastructure — Not Just Crypto Infrastructure
 
-URL: https://chainbrief.news/stablecoins-financial-infrastructure.html
+URL: https://chainbrief.news/stablecoins-financial-infrastructure
 Published: 2026-09-14
 Section: Payments & Adoption
 
@@ -20,7 +20,7 @@ For most of the past decade, a stablecoin — a cryptocurrency engineered to hol
 
 ## Ethereum vs. Solana: What Are Developers Actually Building On?
 
-URL: https://chainbrief.news/ethereum-vs-solana-developer-activity.html
+URL: https://chainbrief.news/ethereum-vs-solana-developer-activity
 Published: 2026-09-14
 Section: Markets & On-Chain
 
@@ -32,7 +32,7 @@ Every crypto cycle produces a version of the same argument: which layer-1 (L1) b
 
 ## Why Wall Street Keeps Launching Crypto Exchange-Traded Funds
 
-URL: https://chainbrief.news/wall-street-crypto-etfs.html
+URL: https://chainbrief.news/wall-street-crypto-etfs
 Published: 2026-09-14
 Section: Markets & On-Chain
 
@@ -44,7 +44,7 @@ Once regulators in major markets began approving spot crypto exchange-traded fun
 
 ## Crypto Wallets Are Getting Easier to Use. Is the Seed Phrase Era Ending?
 
-URL: https://chainbrief.news/crypto-wallets-seed-phrase-era.html
+URL: https://chainbrief.news/crypto-wallets-seed-phrase-era
 Published: 2026-09-14
 Section: Payments & Adoption
 
@@ -56,7 +56,7 @@ Ask anyone who's tried to get a non-technical friend into crypto what the actual
 
 ## What Is a Blockchain Node — and Why Does Decentralization Depend on Them?
 
-URL: https://chainbrief.news/what-is-a-blockchain-node.html
+URL: https://chainbrief.news/what-is-a-blockchain-node
 Published: 2026-09-14
 Section: DeFi
 
@@ -76,7 +76,7 @@ A: No. A wallet manages private keys and lets a user sign and send transactions.
 
 ## Tokenization Is Growing Fast. Does Everything Really Need a Token?
 
-URL: https://chainbrief.news/tokenization-does-everything-need-a-token.html
+URL: https://chainbrief.news/tokenization-does-everything-need-a-token
 Published: 2026-09-14
 Section: Analysis
 
@@ -96,7 +96,7 @@ A: Mainly for fractional ownership and faster settlement. Large financial instit
 
 ## The Senate Votes on the CLARITY Act Tomorrow. It Should Pass.
 
-URL: https://chainbrief.news/clarity-act-senate-vote-should-pass.html
+URL: https://chainbrief.news/clarity-act-senate-vote-should-pass
 Published: 2026-09-14
 Section: Regulation & Policy
 
@@ -108,7 +108,7 @@ Editorial: this is a ChainBrief.news opinion piece, reflecting our own editorial
 
 ## Circle Built Its Own Blockchain. The Gas Token Is USDC.
 
-URL: https://chainbrief.news/circle-arc-stablecoin-blockchain.html
+URL: https://chainbrief.news/circle-arc-stablecoin-blockchain
 Published: 2026-09-17
 Section: Markets & On-Chain
 
@@ -120,7 +120,7 @@ On September 16, Circle — the company behind USDC, the second-largest dollar-p
 
 ## Five Utility Tokens, Put to the Test
 
-URL: https://chainbrief.news/five-utility-tokens-put-to-the-test.html
+URL: https://chainbrief.news/five-utility-tokens-put-to-the-test
 Published: 2026-09-17
 Section: Analysis
 
@@ -132,7 +132,7 @@ Round-ups of "utility tokens to watch" are a genre unto themselves, and most of 
 
 ## Voices to Know: The Web3 Growth Marketer Podcasting About the Part Nobody Livestreams
 
-URL: https://chainbrief.news/stefan-furcoi-trust-to-traction-podcast.html
+URL: https://chainbrief.news/stefan-furcoi-trust-to-traction-podcast
 Published: 2026-09-17
 Section: Analysis
 
@@ -144,7 +144,7 @@ Most crypto media, ChainBrief included, spends its attention on prices, protocol
 
 ## The CLARITY Act Failed. The SEC and CFTC Say They'll Regulate Crypto Anyway.
 
-URL: https://chainbrief.news/sec-acts-alone-after-clarity-act-fails.html
+URL: https://chainbrief.news/sec-acts-alone-after-clarity-act-fails
 Published: 2026-09-17
 Section: Regulation & Policy
 
@@ -156,7 +156,7 @@ On September 15, the Senate's cloture vote on the CLARITY Act failed, 49-50 — 
 
 ## What Is a Cloture? And Is the CLARITY Act Dead, or Dead for Now?
 
-URL: https://chainbrief.news/what-is-a-cloture-senate-explainer.html
+URL: https://chainbrief.news/what-is-a-cloture-senate-explainer
 Published: 2026-09-17
 Section: Regulation & Policy
 
@@ -176,7 +176,7 @@ A: Procedurally, no — nothing in Senate rules kills it. Politically, the coali
 
 ## Aave, Morpho, and Uniswap Just Deployed on a Chain They Don't Control
 
-URL: https://chainbrief.news/defi-builds-on-arc-anyway.html
+URL: https://chainbrief.news/defi-builds-on-arc-anyway
 Published: 2026-09-17
 Section: DeFi
 
@@ -188,7 +188,7 @@ When Circle's Arc blockchain went live on mainnet, it didn't launch quiet. More 
 
 ## Crypto Spent $206 Million on This Fight. It Lost Anyway. What Happens to That Money Now?
 
-URL: https://chainbrief.news/crypto-political-spending-after-clarity-fails.html
+URL: https://chainbrief.news/crypto-political-spending-after-clarity-fails
 Published: 2026-09-17
 Section: Regulation & Policy
 
@@ -200,7 +200,7 @@ By the time the Senate's cloture vote on the CLARITY Act came up short, the cryp
 
 ## The Two Senators Who Might Still Save the CLARITY Act
 
-URL: https://chainbrief.news/gallego-tillis-clarity-act-negotiators.html
+URL: https://chainbrief.news/gallego-tillis-clarity-act-negotiators
 Published: 2026-09-17
 Section: Regulation & Policy
 
@@ -212,7 +212,7 @@ Of everyone involved in the CLARITY Act fight, two senators from opposite partie
 
 ## Why 18 State Attorneys General — Republicans and Democrats Alike — Wanted CLARITY Dead
 
-URL: https://chainbrief.news/state-ags-federal-preemption-clarity-act.html
+URL: https://chainbrief.news/state-ags-federal-preemption-clarity-act
 Published: 2026-09-17
 Section: Regulation & Policy
 
@@ -224,7 +224,7 @@ Most of the coverage of the CLARITY Act's failure focused on the ethics fight ov
 
 ## The SEC Just Let Real Stocks Trade on Public Blockchains
 
-URL: https://chainbrief.news/sec-tokenized-stocks-exemptive-relief.html
+URL: https://chainbrief.news/sec-tokenized-stocks-exemptive-relief
 Published: 2026-09-21
 Section: Markets & On-Chain
 
@@ -236,7 +236,7 @@ On September 17, the SEC granted a five-year exemptive-relief framework that let
 
 ## The CFTC Sent Its Crypto Rulebook to the White House. Here's What That Actually Means.
 
-URL: https://chainbrief.news/cftc-sends-crypto-rules-white-house.html
+URL: https://chainbrief.news/cftc-sends-crypto-rules-white-house
 Published: 2026-09-21
 Section: Regulation & Policy
 
@@ -248,7 +248,7 @@ On September 18 — three days after the Senate failed to clear cloture on the C
 
 ## Twenty-One of the World's Biggest Banks Are Building Their Own Stablecoin
 
-URL: https://chainbrief.news/banks-launch-joint-stablecoin-venture.html
+URL: https://chainbrief.news/banks-launch-joint-stablecoin-venture
 Published: 2026-09-21
 Section: Payments & Adoption
 
@@ -260,7 +260,7 @@ Twenty-one banks and financial institutions have committed to forming a joint ve
 
 ## A Hacker Drained $319 Million From a Bitcoin Network, Then Gave Most of It Back
 
-URL: https://chainbrief.news/liquid-network-320-million-exploit.html
+URL: https://chainbrief.news/liquid-network-320-million-exploit
 Published: 2026-09-21
 Section: Markets & On-Chain
 
@@ -272,7 +272,7 @@ On September 6, an attacker exploited a bug in Liquid Network — a Bitcoin side
 
 ## Crypto's Midterm War Chest Now Has AI and Sports Betting Money Behind It
 
-URL: https://chainbrief.news/crypto-midterm-spending-2026-update.html
+URL: https://chainbrief.news/crypto-midterm-spending-2026-update
 Published: 2026-09-21
 Section: Regulation & Policy
 
@@ -284,7 +284,7 @@ Earlier this month, we covered the roughly $206 million crypto industry groups h
 
 ## What Is "Exemptive Relief," and Why Is the SEC Using It Instead of Writing New Rules?
 
-URL: https://chainbrief.news/what-is-exemptive-relief-sec-explainer.html
+URL: https://chainbrief.news/what-is-exemptive-relief-sec-explainer
 Published: 2026-09-21
 Section: Regulation & Policy
 
@@ -304,7 +304,7 @@ A: Formal rulemaking requires a notice-and-comment process that typically takes 
 
 ## Real-World Asset Tokenization Just Crossed $34 Billion. Here's What That Actually Means.
 
-URL: https://chainbrief.news/rwa-tokenization-market-state-2026.html
+URL: https://chainbrief.news/rwa-tokenization-market-state-2026
 Published: 2026-09-21
 Section: Analysis
 
@@ -316,7 +316,7 @@ The tokenized real-world asset (RWA) market — bonds, private credit, real esta
 
 ## Staking Finally Showed Up Inside a U.S. Crypto ETF
 
-URL: https://chainbrief.news/staking-etfs-go-mainstream.html
+URL: https://chainbrief.news/staking-etfs-go-mainstream
 Published: 2026-09-21
 Section: Markets & On-Chain
 
@@ -328,7 +328,7 @@ For as long as U.S. spot crypto ETFs have existed, they've had a structural gap 
 
 ## Wall Street Found a Way Into Prediction Markets Without Touching the Bets Themselves
 
-URL: https://chainbrief.news/prediction-markets-etf-kalshi-polymarket.html
+URL: https://chainbrief.news/prediction-markets-etf-kalshi-polymarket
 Published: 2026-09-21
 Section: Markets & On-Chain
 
@@ -340,7 +340,7 @@ ETF provider Tema recently launched a fund built around the prediction-markets s
 
 ## What's Actually Driving This Month's Layer-2 and DeFi Rally
 
-URL: https://chainbrief.news/what-is-driving-september-defi-rally.html
+URL: https://chainbrief.news/what-is-driving-september-defi-rally
 Published: 2026-09-21
 Section: Analysis
 
