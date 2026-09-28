@@ -2,8 +2,6 @@
 
 > Crypto news with context. Fast, personality-driven reporting on markets, DeFi, regulation, payments and adoption, and the on-chain stories behind the headlines — for crypto-curious readers who want the drama with actual context, not just the noise.
 
-ChainBrief.news is one property in a five-site independent media network. Each site is editorially independent and covers its own beat; ChainBrief covers crypto news and market context specifically.
-
 ## Articles
 
 - [Stablecoins Are Becoming Financial Infrastructure — Not Just Crypto Infrastructure](https://chainbrief.news/stablecoins-financial-infrastructure): Stablecoins have moved from a crypto-trading tool to real payment rails for remittances, payroll, and treasury. Here's what changed, and what hasn't.
@@ -42,11 +40,24 @@ ChainBrief.news is one property in a five-site independent media network. Each s
 - [AI Agents Are Starting to Pay Each Other in Stablecoins](https://chainbrief.news/ai-agents-stablecoin-payments): AI agents are settling payments to each other in stablecoins via new protocols like x402 — machine-to-machine commerce with no human approving each transaction.
 - [A Five-Year-Old Bug Just Cost Bitcoin Holders $116 Million](https://chainbrief.news/coldcard-116-million-hardware-wallet-hack): A 2021 firmware flaw in Coldcard hardware wallets weakened key randomness for years, letting an attacker steal roughly $116 million from over 5,200 addresses.
 - [Crypto Hacks Hit a Record in 2026 — the Losses Didn't](https://chainbrief.news/crypto-hacks-2026-more-attacks-smaller-losses): 2026 crypto hack losses hit $2.2B across 288 attacks — but a small number of huge breaches, not typical exploits, account for most of the money lost.
+- [Bitget's $352 Million Hack Pushes North Korea Past $1 Billion for the Year](https://chainbrief.news/bitget-352-million-hack-north-korea): Bitget lost $351.6M in a spoofed-transfer hack tied to North Korea, pushing the regime's attributed 2026 crypto theft past $1 billion.
+- [A DeFi Hacker Facing $65 Million in Charges Is Now Lobbying for a Pardon](https://chainbrief.news/andean-medjedovic-defi-hacker-pardon): Andean Medjedovic, indicted for allegedly stealing $65M from KyberSwap and Indexed Finance, has reportedly hired a D.C. lobbying firm to seek a U.S. presidential pardon.
+- [Europe's Regulators Just Put a Dollar Figure on Bitcoin's Quantum Risk](https://chainbrief.news/quantum-computing-bitcoin-threat-eu-warning): EU regulators warn quantum computing could threaten blockchain encryption before commercial viability, putting an estimated 6.9 million exposed bitcoin at risk.
+- [Stablecoins Quietly Became Latin America's Remittance Rail](https://chainbrief.news/stablecoins-latin-america-remittances): Latin America's crypto economy hit $593.8B in 2026 as stablecoins became the region's preferred cross-border remittance tool, led by Mexico, Argentina, and Venezuela.
+- [Bitcoin ETFs Just Erased a Scary Start to September](https://chainbrief.news/bitcoin-etf-flows-rebound-september-2026): U.S. spot Bitcoin ETFs posted a $2.4B weekly inflow, their largest since October, reversing a CLARITY Act-driven outflow scare earlier in September 2026.
+- [CZ Bought a Token With His Own Money. It Soared 20% in Hours.](https://chainbrief.news/cz-aster-perp-dex-personal-stake): Binance founder CZ disclosed a personal $2M+ purchase of ASTER tokens, sending the perp-DEX token up over 20% and its market cap to roughly $2.2 billion.
+- [The CFTC Reverses Course on Prediction Markets — and Drops a Sports Betting Ban](https://chainbrief.news/cftc-prediction-markets-rules-reversal): CFTC Chair Michael Selig directed staff to drop a proposed ban on sports and politics prediction contracts, calling instead for clear rules as state-level legal battles over Kalshi and Polymarket continue.
+- [Corporate Bitcoin Treasuries Have Stopped Moving in Lockstep](https://chainbrief.news/corporate-bitcoin-treasury-strategies-diverge): Public companies holding Bitcoin are diverging into distinct camps in 2026 — some still accumulating, others reducing positions, and a third group sitting completely inactive.
+- [The New IRS Crypto Tax Form Nobody's Ready For](https://chainbrief.news/irs-crypto-tax-1099-da-2026): The IRS's new Form 1099-DA requires exchanges to report crypto sale proceeds automatically, but not cost basis — leaving holders responsible for reconciling gains themselves or risking penalties.
+- [Layer-2 Tokens Are Rallying Back. Not All of Them Deserve To Be.](https://chainbrief.news/layer-2-tokens-recovery-vitalik-rethink): Layer-2 tokens rebounded 65% from their 2026 low to $11.5B after analyst coverage of Arbitrum, even as Vitalik Buterin has questioned whether generic L2 scaling still makes sense.
 
 ## Policies
 
 - [Editorial Standards](https://chainbrief.news/editorial-standards)
 - [About](https://chainbrief.news/about)
 - [Corrections](https://chainbrief.news/corrections)
+- [Contact](https://chainbrief.news/contact)
+- [Privacy Policy](https://chainbrief.news/privacy)
+- [Terms of Use](https://chainbrief.news/terms)
 
 Nothing on ChainBrief.news is financial, legal, or tax advice. Where a brand or project is mentioned for editorial context, ChainBrief.news discloses that context inline; such mentions are not endorsements.

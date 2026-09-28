@@ -26,3 +26,4 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://chainbrief.news/sitemap.xml
+Sitemap: https://chainbrief.news/news-sitemap.xml
