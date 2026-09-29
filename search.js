@@ -161,4 +161,21 @@
       render(q);
     }, 90);
   });
+
+  // Supports a stable, crawlable query URL (https://chainbrief.news/?q=...): on
+  // load, if a ?q= parameter is present, open the overlay, pre-fill the input,
+  // and run the search immediately. This is what makes the WebSite SearchAction
+  // in the homepage's structured data a real, working query template rather
+  // than a dead link.
+  try {
+    var params = new URLSearchParams(window.location.search);
+    var initialQ = params.get("q");
+    if (initialQ) {
+      input.value = initialQ;
+      openOverlay();
+    }
+  } catch (e) {
+    // URLSearchParams unsupported or malformed query string — no-op, search
+    // still works normally via the overlay trigger.
+  }
 })();

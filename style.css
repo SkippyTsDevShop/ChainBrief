@@ -367,6 +367,13 @@ body.search-open { overflow: hidden; }
   line-height: 1.5;
   margin: 0 0 14px;
 }
+.hero-story .hero-img {
+  margin-top: 16px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+}
+.hero-story .hero-img img { width: 100%; height: auto; display: block; }
 .byline-row {
   display: flex;
   gap: 10px;
@@ -418,6 +425,12 @@ body.search-open { overflow: hidden; }
   flex-direction: column;
   gap: 10px;
 }
+.story-card .card-img {
+  margin: -22px -22px 4px;
+  border-bottom: 1px solid var(--line);
+  overflow: hidden;
+}
+.story-card .card-img img { width: 100%; height: auto; display: block; }
 .story-card h3 { font-size: 19px; line-height: 1.28; margin: 0; font-weight: 800; letter-spacing: -.01em; }
 .story-card h3 a:hover { color: var(--cyan-dark); }
 .story-card p { margin: 0; color: var(--muted); font-size: 14.5px; line-height: 1.5; }
@@ -450,8 +463,8 @@ body.search-open { overflow: hidden; }
   font-weight: 700;
   padding-top: 3px;
 }
-.list-item h4 { margin: 0 0 4px; font-size: 15.5px; font-weight: 700; line-height: 1.35; }
-.list-item h4 a:hover { color: var(--cyan-dark); }
+.list-item h3 { margin: 0 0 4px; font-size: 15.5px; font-weight: 700; line-height: 1.35; }
+.list-item h3 a:hover { color: var(--cyan-dark); }
 .list-item .meta { font-family: var(--ff-mono); font-size: 11px; color: var(--muted-2); }
 
 /* -------------------- Newsletter strip -------------------- */
